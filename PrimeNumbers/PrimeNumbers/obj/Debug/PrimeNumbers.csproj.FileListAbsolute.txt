@@ -1,0 +1,7 @@
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+H:\LTI Training\Specialisation\Practice\Day2Practice\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
